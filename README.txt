@@ -1,1 +1,1 @@
-Complete static website. Extract and upload files with index.html at the root. SEO uses https://pellowahhealing.co.uk/. Updated training links: Book November training & view other dates.
+Complete static website. Extract and upload with index.html at the root. Includes updated energy healing link preview, booking wording and SEO for https://pellowahhealing.co.uk/. No build required.
