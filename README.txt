@@ -1,1 +1,1 @@
-Complete static website. Extract and upload with index.html at the root. Includes updated energy healing link preview, booking wording and SEO for https://pellowahhealing.co.uk/. No build required.
+Complete website export, 7 October 2026. Includes founder and worldwide community sections, Julie Parker acknowledgement, updated energy healing sharing preview, booking wording and SEO for https://pellowahhealing.co.uk/. Extract and upload with index.html at the hosting root. No build required.
