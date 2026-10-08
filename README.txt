@@ -1,2 +1,2 @@
-Complete current website for https://pellowahhealing.co.uk/
-All prior changes included. Back-to-top control added to all pages. Upload all five HTML files, style.css and menu.js for this update.
+Complete latest website for https://pellowahhealing.co.uk/
+All prior updates included. Stronger desktop moon parallax and gentle mobile parallax. Replace style.css and motion.js for this change.
