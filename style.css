@@ -40,3 +40,23 @@
 
 /* Founder acknowledgement: warm contrast within Discover Pellowah. */
 .founder-community{background:#e9e2d6}.founder-community .text{max-width:700px}
+
+/* A light, spacious pause between the philosophy and founder sections. */
+.discover-page .consciousness-pause{background:#f5f2eb;color:#292e29;padding:100px 24px;text-align:center;border:0}
+.consciousness-pause .eyebrow{color:#68685d;margin:0 0 28px}
+.consciousness-pause blockquote{font-family:'Libre Caslon Display',Georgia,serif;font-size:clamp(32px,4vw,52px);line-height:1.25;font-weight:400;max-width:900px;margin:0 auto;text-wrap:balance}
+@media(max-width:700px){.discover-page .consciousness-pause{padding:72px 28px}.consciousness-pause .eyebrow{font-size:11px;letter-spacing:.15em;margin-bottom:24px}}
+
+/* Matching charcoal booking panels on homepage and Discover Pellowah. */
+:is(.discover-page,.homepage) .session-booking{background:#292f2a;color:#f5f2eb;border:0;padding:48px;margin-top:48px}
+:is(.discover-page,.homepage) .session-booking h3,:is(.discover-page,.homepage) .session-booking .session-price{color:#f5f2eb}
+:is(.discover-page,.homepage) .session-booking h3 em{color:#e5d9bb}
+:is(.discover-page,.homepage) .session-booking p,:is(.discover-page,.homepage) .session-booking small{color:#d9ddd5}
+:is(.discover-page,.homepage) .session-booking .text-link{color:#f5f2eb;border-color:#aeb4a8}
+:is(.discover-page,.homepage) .session-booking .button{background:#e5d9bb;color:#292f2a;border-color:#e5d9bb}
+:is(.discover-page,.homepage) .session-booking .button:hover{background:#f5f2eb;border-color:#f5f2eb}
+@media(max-width:700px){:is(.discover-page,.homepage) .session-booking{padding:36px 26px;margin-top:36px}}
+
+.practitioners-page .region-links{display:flex;flex-wrap:wrap;gap:18px 32px;margin-top:30px;align-items:flex-start}.practitioners-page .region-links .text-link{margin:0;width:fit-content}@media(max-width:700px){.practitioners-page .region-links{flex-direction:column;gap:18px}}
+
+.practitioners-page #nicola-johnston{background:#eeece5}

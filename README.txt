@@ -1,1 +1,2 @@
-Complete website export, 7 October 2026. Includes founder and worldwide community sections, Julie Parker acknowledgement, updated energy healing sharing preview, booking wording and SEO for https://pellowahhealing.co.uk/. Extract and upload with index.html at the hosting root. No build required.
+Complete website for https://pellowahhealing.co.uk/
+Latest change: Nicola listing background matches Rachel. Replace style.css for this change.
