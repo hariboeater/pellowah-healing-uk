@@ -60,3 +60,5 @@
 .practitioners-page .region-links{display:flex;flex-wrap:wrap;gap:18px 32px;margin-top:30px;align-items:flex-start}.practitioners-page .region-links .text-link{margin:0;width:fit-content}@media(max-width:700px){.practitioners-page .region-links{flex-direction:column;gap:18px}}
 
 .practitioners-page #nicola-johnston{background:#eeece5}
+
+.back-to-top{position:fixed;right:24px;bottom:24px;bottom:calc(24px + env(safe-area-inset-bottom));z-index:30;padding:13px 20px;min-height:46px;border:1px solid #d7c9a4;border-radius:30px;background:#292f2b;color:#e5d9bb;font:500 14px 'DM Sans',sans-serif;letter-spacing:.025em;box-shadow:0 4px 18px #0002;cursor:pointer;transition:background .2s,color .2s}.back-to-top[hidden]{display:none}.back-to-top:hover{background:#e5d9bb;color:#292f2b}.back-to-top:focus-visible{outline:3px solid #b6a170;outline-offset:4px}@media(max-width:700px){.back-to-top{right:18px;bottom:calc(18px + env(safe-area-inset-bottom));padding:12px 17px}}@media(prefers-reduced-motion:reduce){.back-to-top{transition:none}}
