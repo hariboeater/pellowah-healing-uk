@@ -1,1 +1,1 @@
-Complete Pellowah Healing UK website. Includes Claire Blamire’s North Carlisle and distance listing and the 16–17 January 2027 workshop. If the previous January ZIP is already live, update practitioners.html and add claire-portrait.png at the site root.
+Complete Pellowah Healing UK website. Lisa, Jenny and Gemma now list in-person and distance Pellowah. Claire’s cream vest portrait and the January 2027 workshop are included. If the previous complete Claire Updated ZIP is already live, replace practitioners.html only.
