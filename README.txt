@@ -1,1 +1,1 @@
-Complete Pellowah Healing UK website. Lisa, Jenny and Gemma now list in-person and distance Pellowah. Claire’s cream vest portrait and the January 2027 workshop are included. If the previous complete Claire Updated ZIP is already live, replace practitioners.html only.
+Complete Pellowah Healing UK website. Claire, Lisa, Jenny and Gemma offer in-person and distance Pellowah. Includes Claire’s approved portrait and the January 2027 workshop. If the previous Session Options ZIP is already live, replace practitioners.html only.
